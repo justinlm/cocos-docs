@@ -26,7 +26,7 @@ The extensions created in the above 4 ways differ only in workload and technical
 | :--- | :----- |
 | **Extension's name** | The extension name created must not start with `_` or `.`, and cannot contain capital letters. Because extensions become part of the URL, they also cannot contain illegal characters from the URL, `.`, `'` and `,`. |
 | **Author** | Author of extension |
-| **Editor dependency version** | The Cocos Creator version required by the runtime of the created extension. |
+| **Editor dependency version** | The Cocos Creator version is required by the runtime of the created extension. |
 | **Show in the manager** | If this item is checked, **Extension Manager** will automatically open and show the created extensions when the extension creation is finished. <br>If this is unchecked, you can click **Extensions -> Extension Manager** in the menu bar at the top of the editor to view the extensions when they are created.|
 | **Show in folder** | If this item is checked, the extension will be automatically opened in the system file manager when the extension is created. |
 | **Extension's location** | The directory where the extension package was created. Since v3.7, extension can only be created with the **Project** option. |
